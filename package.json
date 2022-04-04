@@ -1,0 +1,27 @@
+{
+  "name": "compliance_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sommerlilie/compliance_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sommerlilie/compliance_test/issues"
+  },
+  "homepage": "https://github.com/sommerlilie/compliance_test#readme",
+  "dependencies": {
+    "gl-matrix": "^3.4.3",
+    "highlight.js": "^11.5.0",
+    "reactjs": "^1.0.0",
+    "reportportal-js-client": "^2.2.1",
+    "typedoc": "^0.22.13",
+    "typescript": "^4.6.3"
+  }
+}
