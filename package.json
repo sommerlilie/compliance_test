@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sommerlilie/compliance_test#readme",
   "dependencies": {
-    "git-interface": "2.0",
+    "git-interface": "2.1.2",
     "gl-matrix": "^3.4.3",
     "handlebars": "^4.7.6",
     "highlight.js": "^11.5.0",
