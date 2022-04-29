@@ -21,7 +21,7 @@
     "gl-matrix": "^3.4.3",
     "handlebars": "^4.7.6",
     "highlight.js": "^11.5.0",
-    "marked": "^4.0.12",
+    "marked": "^4.0.13",
     "reactjs": "^1.0.0",
     "reportportal-js-client": "^2.2.1",
     "typedoc": "^0.22.13",
