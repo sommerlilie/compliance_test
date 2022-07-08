@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.15
  
 RUN apk add --update --no-cache python3 nodejs npm make yarn git doxygen graphviz ghostscript-fonts font-bitstream-type1 ttf-freefont texmf-dist texlive texlive-full texlive-luatex && \ 
     python3 -m ensurepip && \
